@@ -1,4 +1,2 @@
-hello world ...
-This is a great project 
-I'm adding a few more lines
-more lines
+Hello world ...
+I'm adding more lines
